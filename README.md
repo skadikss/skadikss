@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi!<br><br>I am a beginner programmer <br>I am a first year student and I have already passed programming languages such as: Pyton<br>And also learned to work with websites using HTML and CSS
 <div align="center">
-  <img src="ww.gif" alt="ne robit" />
+  <img src="aa.gif" alt="ne robit" />
 </div>
 
 
@@ -16,5 +16,5 @@ Hi!<br><br>I am a beginner programmer <br>I am a first year student and I have a
 [![](https://visitcount.itsvg.in/api?id=skadikss&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="aa.gif" alt="ne robit" />
+  <img src="ww.gif" alt="ne robit" />
 </div>
