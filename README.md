@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi!<br><br>I am a beginner programmer <br>I am a first year student and I have already passed programming languages such as: Pyton<br>And also learned to work with websites using HTML and CSS
 <div align="center">
-  <img src="sss.gif" alt="Descriptive Text for the GIF" />
+  <img src="[/.gif](https://media1.tenor.com/m/MXH0JAryGdQAAAAd/shrek-is-love-shrek-is-life-shrek-meme.gif)" alt="Descriptive Text for the GIF" />
 </div>
 
 
