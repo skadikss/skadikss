@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi!<br><br>I am a beginner programmer <br>I am a first year student and I have already passed programming languages such as: Pyton<br>And also learned to work with websites using HTML and CSS
-<div align="right">
+<div align="right; up">
   <img src="aa.gif" alt="ne robit" />
 </div>
 
